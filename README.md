@@ -33,9 +33,47 @@ Apaixonado por tecnologia, sempre criando projetos novos e aprendendo todos os d
 
 ### 🚀 Tecnologias que eu domino
 
-<img align="left" alt="HTML"       title="HTML"       width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS"        title="CSS"        width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="HTML"   title="HTML"       width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS"    title="CSS"        width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" title="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="TypeScript" title="TypeScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="left" alt="React"      title="React"      width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="
+<img align="left" alt="React"  title="React"      width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="Next.js" title="Next.js"   width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="Tailwind" title="Tailwind" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" alt="Bootstrap" title="Bootstrap" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="Sass"   title="Sass"       width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+<br/>
+<img align="left" alt="PHP"    title="PHP"        width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img align="left" alt="Laravel" title="Laravel"   width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+<img align="left" alt="MySQL"  title="MySQL"      width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Python" title="Python"     width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Java"   title="Java"       width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" alt="C"      title="C"          width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img align="left" alt="C++"    title="C++"        width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Lua"    title="Lua"        width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
+<img align="left" alt="n8n"    title="n8n"        width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/n8n/n8n-original.svg" />
+<img align="left" alt="Git"    title="Git"        width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<br/>
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+<div align="center">
+  <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larissakich&layout=compact&theme=tokyonight&langs_count=10&hide_progress=false"/>
+</div>
+
+<div align="center">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Larissakich&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+<div align="center">
+  <samp>
+    <b>Se quiser trocar uma ideia ou colaborar em algum projeto, é só chamar!</b>
+    <br/>
+    💻 Sempre aberto a novos desafios e aprendizados!
+  </samp>
+</div>
