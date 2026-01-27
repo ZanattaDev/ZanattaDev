@@ -1,5 +1,5 @@
 # 👨🏻‍💻 Pedro Zanatta
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Back End`**
 
 Oi! Eu sou o **Pedro Henrique Zanatta**, 15 anos, Santa Catarina  
 Concluindo o Ensino Médio + Técnico em Informática no CEDUP  
@@ -33,11 +33,8 @@ Apaixonado por tecnologia, sempre criando projetos novos e aprendendo todos os d
 
 ### 🚀 Tecnologias que eu domino
 
-<img align="left" alt="HTML"   title="HTML"       width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS"    title="CSS"        width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" title="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="TypeScript" title="TypeScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<br/>
 <img align="left" alt="PHP"    title="PHP"        width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 <img align="left" alt="MySQL"  title="MySQL"      width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Python" title="Python"     width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
