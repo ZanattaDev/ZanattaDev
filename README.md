@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Pedro Zanatta
 **`Desenvolvedor Back End`**
 
-Olá! Eu sou o **Pedro Henrique Zanatta**, 15 anos, Santa Catarina  
+Olá! Eu sou o **Pedro Henrique Zanatta**, 16 anos, Santa Catarina  
 Concluindo o Ensino Médio + Técnico em Informática no CEDUP  
 Apaixonado por tecnologia, sempre criando projetos novos e aprendendo todos os dias!
 
