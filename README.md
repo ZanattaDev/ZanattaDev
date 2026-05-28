@@ -5,6 +5,8 @@ Olá! Eu sou o **Pedro Henrique Zanatta**, 16 anos, Santa Catarina
 Concluindo o Ensino Médio + Técnico em Informática no CEDUP  
 Apaixonado por tecnologia, sempre criando projetos novos e aprendendo todos os dias!
 
+pedro-zanatta.vercel.app
+ 
 <p align="left">
     <a href="https://instagram.com/pedro_zanattaa">
         <img
